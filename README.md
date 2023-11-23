@@ -28,3 +28,8 @@ This project aims to predict customer buying behavior based on various features 
 4. Conclusion
 - Summary of findings
 - Future improvements
+
+# Feel free to check the complete code in the Jupyter notebook
+
+# Conclusion
+This project explored and analyzed customer flight booking data and successfully built a machine learning model to predict customer buying behavior. The XGBoost classifier was trained and tuned to achieve improved performance. Further improvements and detailed analyses can be performed in the future.  
