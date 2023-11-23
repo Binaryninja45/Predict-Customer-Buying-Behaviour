@@ -30,6 +30,7 @@ This project aims to predict customer buying behavior based on various features 
 - Future improvements
 
 # Feel free to check the complete code in the Jupyter notebook
-
+# Results
+The machine learning model, based on XGBoost with optimized hyperparameters, demonstrates improved predictive performance. The evaluation metrics, including accuracy, precision, recall, F1-score, and ROC-AUC, provide a comprehensive assessment of the model's effectiveness.
 # Conclusion
 This project explored and analyzed customer flight booking data and successfully built a machine learning model to predict customer buying behavior. The XGBoost classifier was trained and tuned to achieve improved performance. Further improvements and detailed analyses can be performed in the future.  
